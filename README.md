@@ -3,16 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Tangerine"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      href="https://yt3.ggpht.com/ytc/AAUvwnjV75PaapOP_D6dQX12_MDPkSI3MB88ENUP73t5=s900-c-k-c0x00ffffff-no-rj"
-    />
+   
     
   </head>
   <body>
