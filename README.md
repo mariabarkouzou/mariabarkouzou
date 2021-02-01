@@ -21,15 +21,15 @@
         infinite world of Coding.
       </h3>
       <h3>
-        💞I'm in love with technology and its great impact to the world , when
+        💞 I'm in love with technology and its great impact to the world , when
         humanity is the main focus.
       </h3>
       <h3>
-        👯‍♀️I feel whole when I collaborate with crazy and funny coding addicts
+        👯‍♀️ I feel whole when I collaborate with crazy and funny coding addicts
         like me.
       </h3>
       <h3>
-        📫You can contact me
+        📫 You can contact me
         <a href="mailto:mbarkouzou@gmail.com"> via email</a> because as a most
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
