@@ -11,7 +11,7 @@
       <img src="https://i.pinimg.com/originals/73/36/d7/7336d75e527acb303e9a14fa2ce20e81.gif">
       <h1>Greetings to all of my fellow Coding Addicts🤓</h1>
       <h2>
-        My name is Maria and I'm a FrontEnd Development student at ~Hogwarts🧙‍♂️~
+        My name is Maria and I'm a FrontEnd Development student at ~Hogwarts🧙‍♂️~ <br>
         awesome
         <a href="https://socialhackersacademy.org">Social Hackers Academy.</a>
       </h2>
