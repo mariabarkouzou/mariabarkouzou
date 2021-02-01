@@ -7,7 +7,7 @@
     
   </head>
   <body>
-    <div class="container">
+    <div class="container" text-align="center">
       <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6ca7751-3c65-4782-8a96-53cc21a7af6a/d47x2d7-0f535a06-0c7e-4ed0-9ca8-d2d999e9d04b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZDZjYTc3NTEtM2M2NS00NzgyLThhOTYtNTNjYzIxYTdhZjZhXC9kNDd4MmQ3LTBmNTM1YTA2LTBjN2UtNGVkMC05Y2E4LWQyZDk5OWU5ZDA0Yi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.vxLhL9Tz9Tz1oJqteuO18Q7Qlq99TGAGNEMtNJzEgXU">
       <h1>Greetings to all of my fellow Coding Addicts🤓</h1>
       <h2>
