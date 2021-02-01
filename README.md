@@ -8,7 +8,7 @@
   </head>
   <body>
     <div class="container">
-      <img src="https://i.gifer.com/2qP5.gif">
+      <img src="https://i.pinimg.com/originals/57/4c/93/574c9330a3dd1d16d380abaec306e0fa.jpg">
       <h1>Greetings to all of my fellow Coding Addicts🤓</h1>
       <h2>
         My name is Maria and I'm a FrontEnd Development student at ~Hogwarts🧙‍♂️~ <br>
