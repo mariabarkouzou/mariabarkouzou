@@ -30,7 +30,7 @@
       </h3>
       <h3>
         📫 You can contact me
-        <a href="mailto:mbarkouzou@gmail.com"> via email</a> because as a most
+        <a href="mailto:mbarkouzou@gmail.com"> via email</a> or connect with me through <a href="https://www.linkedin.com/in/maria-barkouzou-b39810201/?originalSubdomain=gr" >Linkedin</a> because as a most
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
       </h3>
