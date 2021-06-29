@@ -33,9 +33,5 @@
     </div>
     <br>
     <p>Photo made with <a href=https://deepdreamgenerator.com</a> DreamGenerator </p>
-    <br>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-      
-   
   </body>
 </html>
