@@ -11,6 +11,7 @@
       <img align="right" src="https://lh3.googleusercontent.com/yftM3MCPWkc3uNJZ3OOA4M6OeoWfbpH9Q5njLiRxSdw3fPPWREA7yEbQxkhfvyLvgI1zwjd_KIflU3yRjHFL_PyHrdJSBW4wiUeGaSfER5ue13sek_58TGO_xCsfsSA28wCZ0oJrt3p4InBo1JLbIxqBITfbDj3B9LOrTxdL8nS8FNFaItX1evyxLQMcZJ4hCMxJQoFKwJi2w1ZvxTtijhT4tbvdlt8xeoRbWiqA5PLf1HGJkmB6WYvIjrYvaRlaCzqfrZarw72M0BLeaD5mddX3_ro2yFCag3ExO71bYj-R3q_Zo4Sh4Tsvy-sFG4Iudf-ejGzUgyc0ulptzHV1WfpScGw7jAaRboutEJLhwQnbN4NB8WB-CwkMtmc_Z2yu4mJzHPPqo_QZDIUPfrcYtuI1rgMkFPsymOQo8yFgIHS4KsNS1Pi3zZZqqhTn3hes6_qShWVsQ-YxigCuiEx6q_ml9KecKbi0HHzavvh9xceKrOwlrroSsGpCMAxuK_oTCtMZBKVg0t0U8owhPTitzibMrPn_CUXgpK0oEbj4evg9uGwqoBhMMuiOKWie8kADWYlMQLRExbQ1Jao5nx4Vhgqeh-52e-W0MPtTmUu1gP8KKs0HAdZeGrutSTD2tfxPotNuBSaPTroNBs-0PWzhpEkogH8QgM_n94EUCHp8EzdviyNNWAby0TiznyfB3PlHsB-m1OSmI4bgKZtXEBWJrWA=w416-h690-no?authuser=0">
       <h1> Welcome everybody🤩</h1>
       <h2>My name is Maria and I'm a Front-End Web Developer & Machine Learning Enthusiast!</h2>
+      <br>
       <h3>🔭 These days I'm working on different kinds of projects.</h3>
       <h3>
         🌱 I’m currently learning JavaScript & React and exploring the
@@ -31,6 +32,7 @@
         time🙈🙉🙊.
       </h3> 
     </div>
+    <br>
     <br>
     <br>
     <br>
