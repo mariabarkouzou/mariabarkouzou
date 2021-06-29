@@ -37,6 +37,6 @@
     <br>
     <br>
     <br>
-    <p>Photo made with <a href="https://deepdreamgenerator.com"</a> AI Art DreamGenerator </p>
+    <p>Photo made with AI Art<a href="https://deepdreamgenerator.com"</a>  DreamGenerator </p>
   </body>
 </html>
