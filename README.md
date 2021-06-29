@@ -32,6 +32,8 @@
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
       </h3>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+      
     </div>
   </body>
 </html>
