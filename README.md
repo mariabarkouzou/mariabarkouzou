@@ -12,25 +12,25 @@
      
       <h1> My name is Maria and I'm a FrontEnd Developer & Machine Learning Enthusiast!</h1>
       <br>
-      <h4>🔭 These days I'm working on different kinds of projects.</h4>
-      <h4>
+      <h2>🔭 These days I'm working on different kinds of projects.</h2>
+      <h2>
         🌱 I’m currently learning JavaScript & React and exploring the
         infinite world of Coding.
-      </h4>
-      <h4>
+      </h2>
+      <h2>
         💞 I'm in love with technology and its great impact to the world , when
         humanity is the main focus.
-      </h4>
-      <h4>
+      </h2>
+      <h2>
         👯‍♀️ I feel whole when I collaborate with crazy and funny coding addicts
         like me.
-      </h4>
-      <h4>
+      </h2>
+      <h2>
         📫 You can contact me
         <a href="mailto:mbarkouzou@gmail.com"> via email</a> or connect with me through <a href="https://www.linkedin.com/in/maria-barkouzou-b39810201/?originalSubdomain=gr" >Linkedin</a> because as a most
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
-      </h4> 
+      </h2> 
     </div>
     <br>
     <p>Photo made with <a href=https://deepdreamgenerator.com</a> DreamGenerator </p>
