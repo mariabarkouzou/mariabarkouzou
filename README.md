@@ -31,9 +31,9 @@
         <a href="mailto:mbarkouzou@gmail.com"> via email</a> or connect with me through <a href="https://www.linkedin.com/in/maria-barkouzou-b39810201/?originalSubdomain=gr" >Linkedin</a> because as a most
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
-      </h3>
+      </h3> </div>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
       
-    </div>
+   
   </body>
 </html>
