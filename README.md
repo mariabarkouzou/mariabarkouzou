@@ -30,7 +30,8 @@
         <a href="mailto:mbarkouzou@gmail.com"> via email</a> or connect with me through <a href="https://www.linkedin.com/in/maria-barkouzou-b39810201/?originalSubdomain=gr" >Linkedin</a> because as a most
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
-      </h4> </div>
+      </h4> 
+    </div>
     <br>
     <p>Photo made with <a href=https://deepdreamgenerator.com</a> DreamGenerator </p>
     <br>
