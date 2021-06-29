@@ -9,7 +9,7 @@
   <body>
     <div class="container" >
       <img align="right" src="https://lh3.googleusercontent.com/UfbOQ30ZnUFiloh56hzFqXy-cTkwY621Zs-55deHJeO-9VuapAI_z2XiJxlj6tkYJVvqGeqx9wMXW0-hw2ZQQfM8tFp2ezBMPJRxMgvgMrNPqcUIrv8_eQxF2VNi9qd3n3gwvVV1UJCgUQ7IY-Wxgp7Kr22_c19MMv28c78NIbpMudN67A95--SvB-aDbTYA4H3d_letGXAIvmtLH2E1VxPRA_HvMg0hIzi83_5xUk1No0m6KN3yiSAd0-ZywA15zBTauvd41ZOjHKLLdTmO5UvSBY3Kyi7F7jLxyrfvgKD5qjdK-Tm0dXgRQYN3gZhPeNGU6cXz_HsdLnUK0c49BP4sd3La65czwqMOCUcS8FbBO5dNC9K1YZ-FJ49guN3xTW7qePsINWp_gRwY7Z0NegI022-Cc33f-c_Jaglepfue4B0hf-CuDwdCiu1BWG4YfBKwym696UaAUU3Djo96pp8vhYa_R_EGI1aFKPp4ugGo6THUw0_Ox5hqqMoIbU2dIQVjH4mWciln-sNfj5Zn680I16aUTK0BAVRBS7yjXpYJ0cHI00hCG4rPZ9VcGalo8w3hAmXj1mQGKgam10MJNOz0jvc_nEb4Kc-HAHoBXN4AFoHGpIKEEW2LH9tJqjVLTsql30Po-RHFlMluB-pUzUYUNZTgXfzYbYKIHsqI2FnW3rvXk3OfQKe9K25v8RhW2HQJRzxlOxQKXmDBHMsJLn4=w427-h747-no?authuser=0">
-      <h1 text-align="center"> Welcome everybody!🤩</h1>
+      <h1> Welcome everybody!🤩</h1>
       <h2>My name is Maria and I'm a Front-End Web Developer & Machine Learning Enthusiast!</h2>
       <h3>🔭 These days I'm working on different kinds of projects.</h3>
       <h3>
