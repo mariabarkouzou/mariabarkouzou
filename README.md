@@ -31,7 +31,5 @@
         time🙈🙉🙊.
       </h3> 
     </div>
-    <br>
-    <p>Photo made with AI Art<a href="https://deepdreamgenerator.com"</a>  DreamGenerator </p>
   </body>
 </html>
