@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    meta charset="UTF-8" />
+  
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    
     
@@ -30,9 +30,11 @@
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
       </h3> 
+      <br>
+      <br>
+      <br> 
     </div>
   </body>
 </html>
 
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou)](https://github.com/mariabarkouzou/github-readme-stats)
-
+  [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou&count_private=true&theme=tokyonight&showicons=true))](https://github.com/mariabarkouzou/github-readme-stats)
