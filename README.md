@@ -33,6 +33,6 @@
     </div>
     <br>
     <br>
-    [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou)](https://github.com/mariabarkouzou/github-readme-stats)
+    ![Maria's github stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou)
   </body>
 </html>
