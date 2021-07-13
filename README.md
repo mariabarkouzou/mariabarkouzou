@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
+    meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    
     
@@ -31,8 +31,7 @@
         time🙈🙉🙊.
       </h3> 
     </div>
-    <br>
-    <br>
-    ![Maria's github stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou)
   </body>
 </html>
+
+[Maria's github stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou)
