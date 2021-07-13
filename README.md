@@ -31,5 +31,8 @@
         time🙈🙉🙊.
       </h3> 
     </div>
+    <br>
+    <br>
+    [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou)](https://github.com/mariabarkouzou/github-readme-stats)
   </body>
 </html>
