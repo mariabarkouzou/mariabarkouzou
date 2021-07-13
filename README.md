@@ -36,3 +36,5 @@
 </html>
 
   [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou&count_private=true&theme=tokyonight&showicons=true))](https://github.com/mariabarkouzou/github-readme-stats)
+  
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&langs_count=5&theme=tokyonight)]()
