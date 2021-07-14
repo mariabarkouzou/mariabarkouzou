@@ -33,9 +33,7 @@
       </div>
       <br>
       <br>
-      <h3 align="left">Maria's GitHub stats</h3>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&count_private=true&theme=tokyonight&showicons=true" />
-      <h3 align="right">My GitHub Language Stats</h3>
      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&langs_count=5&theme=tokyonight" />  
     </div>
   </body>
