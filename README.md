@@ -10,6 +10,7 @@
       <img src="https://www.jobs.ac.uk/enhanced/job/dkfz-data-science-resp-2018/images/top.jpg" />
       <h2 align="center">Hey!I'm Maria , a Front-End Web Developer & Machine Learning Enthusiast!</h2>
       <br>
+      <div align="center">
       <h3>🔭 These days I'm working on different kinds of projects.</h3>
       <h3>
         🌱 I’m currently learning IT Support & ML and exploring the
@@ -29,6 +30,7 @@
         traditional nerd , I don't have Social Media.They consume valuable
         time🙈🙉🙊.
       </h3> 
+      </div>
       <br>
       <br>
     </div>
