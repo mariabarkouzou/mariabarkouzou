@@ -12,7 +12,7 @@
       <br>
       <h3>🔭 These days I'm working on different kinds of projects.</h3>
       <h3>
-        🌱 I’m currently learning JavaScript & React and exploring the
+        🌱 I’m currently learning IT Support & ML and exploring the
         infinite world of Coding.
       </h3>
       <h3>
