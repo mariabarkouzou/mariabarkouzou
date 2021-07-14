@@ -41,7 +41,7 @@
 
 ### 📜 Certificates
 
-- [Google IT Technical Support Fundamentals](https://coursera.org/share/05538ad2a9d5769a2f997323bc77c85d)
+- [Google IT Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/E63W38CRHTPT)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mariabarkouzou/responsive-web-design)
 - [Front End Web Development]()
 - [JavaScript: Best Practices for Code Formatting](https://drive.google.com/file/d/13xE_P1O8n6vgbKFxXHc-Pr941jZnk5Nz/view?usp=sharing)
