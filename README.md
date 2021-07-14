@@ -10,8 +10,7 @@
       <img src="https://www.jobs.ac.uk/enhanced/job/dkfz-data-science-resp-2018/images/top.jpg" />
       <h2 align="center">Hey! I'm Maria , a Front-End Web Developer & Machine Learning Enthusiast!</h2>
       <br>
-      <h3>You can follow me on</h3>
-      <a href=”https://www.linkedin.com/in/mariabarkouzou/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+      <a href=”https://www.linkedin.com/in/mariabarkouzou/"> ![You can follow me on](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
       <div display="flex" align-items="center" justify-content="center">
       <h3>🔭 These days I'm working on different kinds of projects.</h3>
       <h3>
