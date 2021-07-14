@@ -7,7 +7,7 @@
 ### I'm a Front End Web Developer!
 - 🔭 These days I'm working on different kinds of projects!
 - 🌱 I’m currently learning IT and ML.
-- 👯 I’m looking to collaborate with other researchers.
+- 👯 I’m looking to collaborate with people that want to make a change in this world.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to laugh and live my every day as it is my last.
 
