@@ -1,6 +1,6 @@
      
      
- <img align="right" src="https://photos.google.com/share/AF1QipOCgkr52s01VbWLlP6puD7kaDTh3_1HxW_AqgbPbrbPzQOWdsf_EAiJGboNDAP_AA/photo/AF1QipP6qW6X00GIRKcLn2pXlxpCkOmPNCGKQyH-wBhZ?key=elJnYXJoM0FYVllHYzMta3BBcm9SWGxRR0xreEZB" alt="mbarkouzou" />
+ <img align="right" src="https://lh3.googleusercontent.com/pw/AM-JKLVCj_B57JSQKKVJTwLiYRXXzIwiyYT8XsDoXETXzz1uzVynl3ltqJg5hqRERIJpfuxqaJLRMCU29RVc7NMntsuflllM7mW8gnpK7lOy66yzUBqrUUi6VydPATgweSpBJSFJKIyPukXXphu22JeOgn71=w250-h249-no?authuser=0" alt="mbarkouzou" />
 
 ### Hi there, I'm Maria. 👋 <p align="center"> </p>
 
