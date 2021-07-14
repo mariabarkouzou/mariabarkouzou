@@ -5,7 +5,7 @@
 ## Hi there, I'm Maria. 👋 
 
 ### I'm a Front End Web Developer!
-- 🔭 I’m currently working on different kinds of projects!
+- 🔭 These days I'm working on different kinds of projects!
 - 🌱 I’m currently learning IT and ML.
 - 👯 I’m looking to collaborate with other researchers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
