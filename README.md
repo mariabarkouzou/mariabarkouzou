@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://freeicons.io/social-media-icons-4/youtube-icon-15719" />][youtube]
 [<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="mailto:mbarkouzou@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 [<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -31,8 +31,9 @@
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][github]
 [<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
 [<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px"/>][github]
+[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][github]
 
-
+     
 <br />
 <br />
 
