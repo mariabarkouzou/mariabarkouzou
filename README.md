@@ -1,43 +1,60 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  
-   
-    
-  </head>
-  <body>
-    <div class="container" >
-      <img src="https://www.jobs.ac.uk/enhanced/job/dkfz-data-science-resp-2018/images/top.jpg" />
-      <h2 align="center">Hey! I'm Maria , a Front-End Web Developer & Machine Learning Enthusiast!</h2>
-      <br>
-      <a href=”https://www.linkedin.com/in/mariabarkouzou/"> ![You can follow me on](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-      <div display="flex" align-items="center" justify-content="center">
-      <h3>🔭 These days I'm working on different kinds of projects.</h3>
-      <h3>
-        🌱 I’m currently learning IT Support & ML and exploring the
-        infinite world of Coding.
-      </h3>
-      <h3>
-        💞 I'm in love with technology and its great impact to the world , when
-        humanity is the main focus.
-      </h3>
-      <h3>
-        👯‍♀️ I feel whole when I collaborate with crazy and funny coding addicts
-        like me.
-      </h3>
-      <h3>
-        📫 You can contact me
-        <a href="mailto:mbarkouzou@gmail.com"> via email</a> or connect with me through <a href="https://www.linkedin.com/in/maria-barkouzou-b39810201/?originalSubdomain=gr" >Linkedin</a> because as a most
-        traditional nerd , I don't have Social Media.They consume valuable
-        time🙈🙉🙊.
-      </h3> 
-      </div>
-      <br>
-      <br>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&count_private=true&theme=tokyonight&showicons=true" />
-     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&langs_count=5&theme=tokyonight" />  
-    </div>
-  </body>
-</html>
+     
+     
+ <img src="https://www.jobs.ac.uk/enhanced/job/dkfz-data-science-resp-2018/images/top.jpg" alt="machinelearning" />
+
+### Hi there, I'm Maria. 👋 <p align="center"> </p>
+
+## I'm a Front End Web Developer!
+- 🔭 I’m currently working on different kinds of projects!
+- 🌱 I’m currently learning IT and ML.
+- 👯 I’m looking to collaborate with other researchers.
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to sing and let my imagination run wild.
+
+### Connect with me:
+
+[<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+<br />
+
+### Languages and Tools:
+
+
+[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+[<img align="left" alt="HTML5" width="40px" src="https://fontawesome.com/v5.15/icons/html5"/>][github]
+[<img align="left" alt="CSS" width="40px" src="https://fontawesome.com/v5.15/icons/css3-alt?style=brands"/>][github]
+[<img align="left" alt="React" width="40px" src="https://fontawesome.com/v5.15/icons/react"/>][github]
+[<img align="left" alt="Python" width="40px" src="https://fontawesome.com/v5.15/icons/python"/>][github]
+
+
+<br />
+<br />
+
+---
+
+
+### 📜 Certificates
+
+- [Google IT Technical Support Fundamentals](https://coursera.org/share/05538ad2a9d5769a2f997323bc77c85d)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/mariabarkouzou/responsive-web-design)
+- [Front End Web Development]()
+- [JavaScript: Best Practices for Code Formatting](https://drive.google.com/file/d/13xE_P1O8n6vgbKFxXHc-Pr941jZnk5Nz/view?usp=sharing)
+
+---
+
+<img align="left" alt="mariabarkouzou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&show_icons=true&hide_border=true)](https://github.com/mariabarkouzou)
+
+
+
+
+[youtube]:https://www.youtube.com/channel/UCZAwc4NzUv8E_wsyAuJfdNg
+[linkedin]: https://www.linkedin.com/in/mariabarkouzou
+[github]:  https://github.com/mariabarkouzou
 
   
