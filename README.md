@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://image.flaticon.com/icons/png/512/187/187210.png" />][youtube]
 [<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="mailto:mbarkouzou@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 [<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
