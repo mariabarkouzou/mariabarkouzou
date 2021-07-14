@@ -2,9 +2,9 @@
      
  <img align="right" src="https://lh3.googleusercontent.com/pw/AM-JKLVCj_B57JSQKKVJTwLiYRXXzIwiyYT8XsDoXETXzz1uzVynl3ltqJg5hqRERIJpfuxqaJLRMCU29RVc7NMntsuflllM7mW8gnpK7lOy66yzUBqrUUi6VydPATgweSpBJSFJKIyPukXXphu22JeOgn71=w250-h249-no?authuser=0" alt="mbarkouzou" />
 
-### Hi there, I'm Maria. 👋 <p align="center"> </p>
+## Hi there, I'm Maria. 👋 
 
-## I'm a Front End Web Developer!
+### I'm a Front End Web Developer!
 - 🔭 I’m currently working on different kinds of projects!
 - 🌱 I’m currently learning IT and ML.
 - 👯 I’m looking to collaborate with other researchers.
