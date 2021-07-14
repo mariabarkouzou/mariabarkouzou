@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning IT and ML.
 - 👯 I’m looking to collaborate with other researchers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing and let my imagination run wild.
+- ⚡ Fun fact: I love to sing and wright lyrics and let my imagination run wild.
 
 ### Connect with me:
 
@@ -25,11 +25,11 @@
 
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align="left" alt="HTML5" width="40px" src="https://fontawesome.com/v5.15/icons/html5"/>][github]
-[<img align="left" alt="CSS" width="40px" src="https://fontawesome.com/v5.15/icons/css3-alt?style=brands"/>][github]
-[<img align="left" alt="React" width="40px" src="https://fontawesome.com/v5.15/icons/react"/>][github]
-[<img align="left" alt="Python" width="40px" src="https://fontawesome.com/v5.15/icons/python"/>][github]
-
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][github]
+[<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][github]
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][github]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
+[<img align="left"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40px"/>][github]
 
 <br />
 <br />
@@ -46,9 +46,9 @@
 
 ---
 
-<img align="left" alt="mariabarkouzou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&hide_border=true" />
+<img align="left" alt="mariabarkouzou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&show_icons=true&hide_border=true)](https://github.com/mariabarkouzou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&theme=tokyonight)](https://github.com/mariabarkouzou)
 
 
 
