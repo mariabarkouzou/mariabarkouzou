@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning IT and ML.
 - 👯 I’m looking to collaborate with other researchers.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing and wright lyrics and let my imagination run wild.
+- ⚡ Fun fact: I love to laugh and live my every day as it is my last.
 
 ### Connect with me:
 
