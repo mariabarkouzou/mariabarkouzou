@@ -1,8 +1,7 @@
      
      
- <img align="right" src="https://lh3.googleusercontent.com/pw/AM-JKLVCj_B57JSQKKVJTwLiYRXXzIwiyYT8XsDoXETXzz1uzVynl3ltqJg5hqRERIJpfuxqaJLRMCU29RVc7NMntsuflllM7mW8gnpK7lOy66yzUBqrUUi6VydPATgweSpBJSFJKIyPukXXphu22JeOgn71=w250-h249-no?authuser=0" alt="mbarkouzou" />
+ <img src="https://lh3.googleusercontent.com/pw/AM-JKLXcYebyhzauzEwbPlVB0Lwk1EiTAn2KpgPtzgjhmQxK6lLmmVq_89UuhkwJfY6uq8NE6iaK-wm3WkvMZFdu2iOw5xZFoGgR-dq1PGaW-_9REXg1ecBKbLMdesD1qlOiiKJH8ytxWyn8bJXdpMYPwVqP=w1096-h335-no?authuser=0" alt="mbarkouzou" />
 
-## Hi there, I'm Maria 👋 
 
 ### I'm a Front End Web Developer!
 - 🔭 These days I'm working on different kinds of projects!
