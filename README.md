@@ -7,8 +7,7 @@
   </head>
   <body>
     <div class="container" >
-      <h1> Welcome everybody!!!🤩</h1>
-      <h2>My name is Maria and I'm a Front-End Web Developer & Machine Learning Enthusiast!</h2>
+      <h2>Hey!I'm Maria , a Front-End Web Developer & Machine Learning Enthusiast!</h2>
       <br>
       <h3>🔭 These days I'm working on different kinds of projects.</h3>
       <h3>
