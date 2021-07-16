@@ -1,5 +1,5 @@
     
-<source src="https://photos.google.com/photo/AF1QipO-PTLLDZhssMWnY9hdhlonZELJ7czhnWBKJV78" type="video/mp4" />
+<img src="https://photos.google.com/photo/AF1QipO-PTLLDZhssMWnY9hdhlonZELJ7czhnWBKJV78" type="video/mp4" />
      
 
 
