@@ -48,12 +48,13 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 ---
 
-<img align="left" alt="mariabarkouzou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou" />
-
-<img align="right" alt="mariabarkouzou's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou" />
-
-
-
+ <div>
+  <a href="https://github.com/AidaFig">
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&layout=compact&langs_count=7&theme=nightowl"/>
+</div> 
+  
+  
 
 [youtube]:https://www.youtube.com/channel/UCZAwc4NzUv8E_wsyAuJfdNg
 [linkedin]: https://www.linkedin.com/in/mariabarkouzou
