@@ -48,9 +48,9 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=tokyonight)
+<img align="left" alt="mariabarkouzou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&theme=tokyonight)
+<img align="right" alt="mariabarkouzou's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&theme=tokyonight" />
 
 
 
