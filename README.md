@@ -2,7 +2,7 @@
 https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-8477-1f8f567a9428.mp4
 
 
-### A Front End Software Engineer!
+### A Front End Web Developer!
 - 🔭 These days I'm working on different kinds of projects!
 - 🌱 I’m currently learning IT and ML.
 - 👯 I’m looking to collaborate with people that want to make a change in this world.
@@ -22,14 +22,17 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 ### Languages and Tools:
 
 
-[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][github]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][github]
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][github]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
-[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px"/>][github]
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][github]
+[<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>][github]
 [<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][github]
+[<img align="left" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/>][github]
+[<img align="left" alt="Sanity" width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--i_xQkWHO--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/207/23eb8886-4b62-4a01-ac2b-7aafb500ad26.png"/>][github]
+[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
+[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40px"/>][github]
 [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>][github]
      
      
