@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
  <div>
   <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&layout=compact&langs_count=7&theme=nightowl"/>
+  <img align="right" height="180em" width="400px" src="&layout=compact&langs_count=7&theme=nightowl"/>
 </div> 
   
   
