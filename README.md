@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <a href="mailto:mbarkouzou@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
 [<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" />][stackoverflow]
-[<img align="left" alt="mariabarkouzou | Codepen" width="30px" src="![image](https://user-images.githubusercontent.com/76062682/136936624-38236503-e82e-4fb6-a01e-60a52809292b.png)" />][codepen]
+[<img align="left" alt="mariabarkouzou | Codepen" width="30px" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" />][codepen]
 
 <br />
 <br />
