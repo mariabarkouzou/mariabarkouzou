@@ -11,9 +11,6 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 ### Connect with me:
 
-<img alt="svgImg" width="30px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjRkYzRDAwIiBkPSJNNDMuMiwzMy45Yy0wLjQsMi4xLTIuMSwzLjctNC4yLDRjLTMuMywwLjUtOC44LDEuMS0xNSwxLjFjLTYuMSwwLTExLjYtMC42LTE1LTEuMWMtMi4xLTAuMy0zLjgtMS45LTQuMi00QzQuNCwzMS42LDQsMjguMiw0LDI0YzAtNC4yLDAuNC03LjYsMC44LTkuOWMwLjQtMi4xLDIuMS0zLjcsNC4yLTRDMTIuMyw5LjYsMTcuOCw5LDI0LDljNi4yLDAsMTEuNiwwLjYsMTUsMS4xYzIuMSwwLjMsMy44LDEuOSw0LjIsNGMwLjQsMi4zLDAuOSw1LjcsMC45LDkuOUM0NCwyOC4yLDQzLjYsMzEuNiw0My4yLDMzLjl6Ij48L3BhdGg+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTIwIDMxTDIwIDE3IDMyIDI0eiI+PC9wYXRoPjwvc3ZnPg=="/>
-
-
 
 [<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
 [<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
