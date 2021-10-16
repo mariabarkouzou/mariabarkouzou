@@ -42,8 +42,6 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
      
 <br />
 <br />
-<br />
----
 
 
 ### 📜 Certificates
