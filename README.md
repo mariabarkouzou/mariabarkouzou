@@ -20,6 +20,16 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 <br />
 <br />
+  
+  ### 📜 Certificates
+
+- [Google IT Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/E63W38CRHTPT)
+- [Responsive Web Design](https://www.freecodecamp.org/certification/mariabarkouzou/responsive-web-design)
+- [Frontend Web Development](https://drive.google.com/file/d/1SAftTAIKS8w-pdt3Y0FoKjrROT4puodr/view?usp=sharing)
+- [JavaScript: Best Practices for Code Formatting](https://drive.google.com/file/d/13xE_P1O8n6vgbKFxXHc-Pr941jZnk5Nz/view?usp=sharing)
+
+--- 
+  
 
 ### Languages and Tools:
 
@@ -39,21 +49,9 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
 [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg"/>][github]
      
-<br />
-<br />
-<br />
-<br />
-  
-
-
- ### 📜 Certificates
-
-- [Google IT Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/E63W38CRHTPT)
-- [Responsive Web Design](https://www.freecodecamp.org/certification/mariabarkouzou/responsive-web-design)
-- [Frontend Web Development](https://drive.google.com/file/d/1SAftTAIKS8w-pdt3Y0FoKjrROT4puodr/view?usp=sharing)
-- [JavaScript: Best Practices for Code Formatting](https://drive.google.com/file/d/13xE_P1O8n6vgbKFxXHc-Pr941jZnk5Nz/view?usp=sharing)
 
 ---
+
 
  <div>
   <img align="left" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=mariabarkouzou&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
