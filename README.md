@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 
 [<img align="left" alt="mariabarkouzou | YouTube" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
-[<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="mailto:mbarkouzou@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
 [<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" />][stackoverflow]
 [<img align="left" alt="mariabarkouzou | Codepen" width="30px" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" />][codepen]
@@ -27,10 +27,10 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>][github]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>][github]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>][github]
 [<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>][github]
-[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>][github]
+[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>][github]
 [<img align="left" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/>][github]
 [<img align="left" alt="Sanity" width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--i_xQkWHO--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/207/23eb8886-4b62-4a01-ac2b-7aafb500ad26.png"/>][github]
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
