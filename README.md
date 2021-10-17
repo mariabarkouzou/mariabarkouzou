@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love debugging because it makes me feel like a superhero🦸‍♀️!
 
-<br/>
+
 ### Connect with me:
 
 
@@ -19,10 +19,9 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />][stackoverflow]
 [<img align="left" alt="mariabarkouzou | Codepen" width="30px" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" />][codepen]
 
-<br />
-<br />
-<br/> 
+
   ### 📜 Certificates
+  
 
 - [Google IT Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/E63W38CRHTPT)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mariabarkouzou/responsive-web-design)
@@ -35,6 +34,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 ### Languages and Tools:
 
 
+  
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>][github]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
@@ -51,10 +51,10 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg"/>][github]
      
 <br />
-<br />
+
   
   
---
+---
 
 
  <div>
