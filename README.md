@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love debugging because it makes me feel like a superhero🦸‍♀️!
 
+<br/>
 ### Connect with me:
 
 
@@ -20,7 +21,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 <br />
 <br />
-  
+<br/> 
   ### 📜 Certificates
 
 - [Google IT Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/E63W38CRHTPT)
@@ -28,7 +29,9 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 - [Frontend Web Development](https://drive.google.com/file/d/1SAftTAIKS8w-pdt3Y0FoKjrROT4puodr/view?usp=sharing)
 - [JavaScript: Best Practices for Code Formatting](https://drive.google.com/file/d/13xE_P1O8n6vgbKFxXHc-Pr941jZnk5Nz/view?usp=sharing)
 
-
+<br/>
+  
+  
 ### Languages and Tools:
 
 
@@ -51,7 +54,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 <br />
   
   
----
+--
 
 
  <div>
