@@ -19,6 +19,8 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />][stackoverflow]
 [<img align="left" alt="mariabarkouzou | Codepen" width="30px" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" />][codepen]
 
+  <br/>
+  <br/>
 
   ### 📜 Certificates
   
@@ -51,7 +53,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg"/>][github]
      
 <br />
-
+<br/>
   
   
 ---
