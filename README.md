@@ -64,33 +64,29 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
   
   
-  #### Top Repositories
+  ### Top Repositories
 
 
 <a href="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/mariabarkouzou/FrontEnd-Web-Development-Useful-Resources">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react" />
 </a>
+  <a href="https://github.com/mariabarkouzou/PostAtApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
+</a>
+    <a href="https://github.com/mariabarkouzou/Covid19-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
+</a>
+
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
-  
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react)](https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react)](https://github.com/mariabarkouzou/FrontEnd-Web-Development-Useful-Resources)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react)](https://github.com/mariabarkouzou/PostAtApp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react)](https://github.com/mariabarkouzou/Covid19-Tracker)
-  
+
+ 
 
 [youtube]:https://www.youtube.com/channel/UCZAwc4NzUv8E_wsyAuJfdNg
 [linkedin]: https://www.linkedin.com/in/mariabarkouzou
