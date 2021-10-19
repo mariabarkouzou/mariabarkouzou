@@ -64,8 +64,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
   <img align="right" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabarkouzou&layout=compact&langs_count=7&theme=react"/>
 </div> 
   
-  <br/>
-  <br/>
+  <hr>
   
  
  
