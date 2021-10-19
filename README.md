@@ -69,17 +69,17 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 |<a href="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react" />
-</a>
+</a>|
 |<a href="https://github.com/mariabarkouzou/FrontEnd-Web-Development-Useful-Resources">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react" />
-</a>
+</a>|
  
  | <a href="https://github.com/mariabarkouzou/PostAtApp">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
-</a>
+</a>|
     |<a href="https://github.com/mariabarkouzou/Covid19-Tracker">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
-</a>
+</a>|
 
 
 <br />
