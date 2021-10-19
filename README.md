@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
   
  
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File)](https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react)](https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File)
   
   
 
