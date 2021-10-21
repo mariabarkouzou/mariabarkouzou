@@ -52,9 +52,9 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 [<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
 [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg"/>][github]
      
-<br />
 <br/>
-  
+<br/>
+<br/>
   
 ---
 
@@ -68,22 +68,22 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 
 <a href="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react" />
 </a>
 <a href="https://github.com/mariabarkouzou/FrontEnd-Web-Development-Useful-Resources">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react" />
   </a>
    <a href="https://github.com/mariabarkouzou/Covid19-Tracker">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
 </a>
    <a href="https://github.com/mariabarkouzou/PostAtApp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
 </a>
   <a href="https://github.com/mariabarkouzou/Rock-Paper-And-Scissors">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Rock-Paper-And-Scissors&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Rock-Paper-And-Scissors&theme=react" />
 </a>
  <a href="https://github.com/mariabarkouzou/Calculator-Project">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Calculator-Project&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Calculator-Project&theme=react" />
 </a>
   
 <br />
