@@ -68,22 +68,22 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 
 
 <a href="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File">
-  <img   src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react" />
 </a>
 <a href="https://github.com/mariabarkouzou/FrontEnd-Web-Development-Useful-Resources">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react" />
   </a>
    <a href="https://github.com/mariabarkouzou/PostAtApp">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
 </a>
    <a href="https://github.com/mariabarkouzou/Covid19-Tracker">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
 </a>
   <a href="https://github.com/mariabarkouzou/Rock-Paper-And-Scissors">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Rock-Paper-And-Scissors&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Rock-Paper-And-Scissors&theme=react" />
 </a>
  <a href="https://github.com/mariabarkouzou/Calculator-Project">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Calculator-Project&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Calculator-Project&theme=react" />
 </a>
   
 <br />
