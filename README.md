@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
 </a>
    <a href="https://github.com/mariabarkouzou/SCWAD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=SCWAD&theme=react" />
 </a>
   <a href="https://github.com/mariabarkouzou/Rock-Paper-And-Scissors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Rock-Paper-And-Scissors&theme=react" />
