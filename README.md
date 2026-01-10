@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/76062682/125981107-ecd4de9c-7f49-4f1a-
 - 🔭 These days I'm working on different kinds of projects!
 - 🌱 I’m currently learning IT and ML.
 - 👯 I’m looking to collaborate with people that want to make a change in this world.
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love debugging because it makes me feel like a superhero🦸‍♀️!
 
 
